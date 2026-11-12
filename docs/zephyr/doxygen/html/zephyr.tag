@@ -7140,17 +7140,17 @@
       <arglist>(void)</arglist>
     </member>
     <member kind="function">
-      <type>_Bool</type>
+      <type>bool</type>
       <name>arch_cache_is_ptr_cached</name>
       <anchorfile>group__arch-cache.html</anchorfile>
-      <anchor>gac71f7d75165de9402a2df3edaa1556aa</anchor>
+      <anchor>ga9ed1c303508eb68db80f14fdb6eb7faa</anchor>
       <arglist>(void *ptr)</arglist>
     </member>
     <member kind="function">
-      <type>_Bool</type>
+      <type>bool</type>
       <name>arch_cache_is_ptr_uncached</name>
       <anchorfile>group__arch-cache.html</anchorfile>
-      <anchor>ga5f69fb79310089a3d40bc5b4f08bdd5e</anchor>
+      <anchor>gab6bdf8089dce42e4463f761bae56e652</anchor>
       <arglist>(void *ptr)</arglist>
     </member>
     <member kind="function">
@@ -621042,8 +621042,8 @@
       <type>uint8_t</type>
       <name>broadcast_code</name>
       <anchorfile>structbt__cap__commander__distribute__broadcast__code__param.html</anchorfile>
-      <anchor>af03798684691d9c43bbf7881397d1922</anchor>
-      <arglist>[0x10]</arglist>
+      <anchor>ac7d426c975c1e2324f52486abf9298b9</anchor>
+      <arglist>[BT_ISO_BROADCAST_CODE_SIZE]</arglist>
     </member>
   </compound>
   <compound kind="struct">
@@ -621212,8 +621212,8 @@
       <type>uint8_t</type>
       <name>broadcast_code</name>
       <anchorfile>structbt__cap__initiator__broadcast__create__param.html</anchorfile>
-      <anchor>a580737b0df95f866a016efa0ba3c0891</anchor>
-      <arglist>[0x10]</arglist>
+      <anchor>aa4d6fbd5bd13963004e381b987bbeb4d</anchor>
+      <arglist>[BT_ISO_BROADCAST_CODE_SIZE]</arglist>
     </member>
     <member kind="variable">
       <type>uint8_t</type>
@@ -717687,17 +717687,17 @@
       <arglist>(void)</arglist>
     </member>
     <member kind="function">
-      <type>_Bool</type>
+      <type>bool</type>
       <name>arch_cache_is_ptr_cached</name>
       <anchorfile>group__arch-cache.html</anchorfile>
-      <anchor>gac71f7d75165de9402a2df3edaa1556aa</anchor>
+      <anchor>ga9ed1c303508eb68db80f14fdb6eb7faa</anchor>
       <arglist>(void *ptr)</arglist>
     </member>
     <member kind="function">
-      <type>_Bool</type>
+      <type>bool</type>
       <name>arch_cache_is_ptr_uncached</name>
       <anchorfile>group__arch-cache.html</anchorfile>
-      <anchor>ga5f69fb79310089a3d40bc5b4f08bdd5e</anchor>
+      <anchor>gab6bdf8089dce42e4463f761bae56e652</anchor>
       <arglist>(void *ptr)</arglist>
     </member>
     <member kind="function">

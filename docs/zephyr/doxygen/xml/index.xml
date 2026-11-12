@@ -1496,7 +1496,7 @@
     <member refid="structbt__cap__commander__distribute__broadcast__code__param_1a9605ad1590ff0279b46d639d38278933" kind="variable"><name>type</name></member>
     <member refid="structbt__cap__commander__distribute__broadcast__code__param_1a03be4b2fac7803de233c8a1024640cc2" kind="variable"><name>param</name></member>
     <member refid="structbt__cap__commander__distribute__broadcast__code__param_1a86316e3bf53edca67e0743072f0f2ee3" kind="variable"><name>count</name></member>
-    <member refid="structbt__cap__commander__distribute__broadcast__code__param_1af03798684691d9c43bbf7881397d1922" kind="variable"><name>broadcast_code</name></member>
+    <member refid="structbt__cap__commander__distribute__broadcast__code__param_1ac7d426c975c1e2324f52486abf9298b9" kind="variable"><name>broadcast_code</name></member>
   </compound>
   <compound refid="structbt__cap__handover__broadcast__to__unicast__param" kind="struct"><name>bt_cap_handover_broadcast_to_unicast_param</name>
     <member refid="structbt__cap__handover__broadcast__to__unicast__param_1af0e79651b30c14a6bfd218203236e954" kind="variable"><name>reception_stop_param</name></member>
@@ -1526,7 +1526,7 @@
     <member refid="structbt__cap__initiator__broadcast__create__param_1a142125e620776aed464d90f280ef1a4c" kind="variable"><name>qos</name></member>
     <member refid="structbt__cap__initiator__broadcast__create__param_1ae81ee3dada58a3354c70401380916cbc" kind="variable"><name>packing</name></member>
     <member refid="structbt__cap__initiator__broadcast__create__param_1a4432bee0e365c189996b9f70c7226542" kind="variable"><name>encryption</name></member>
-    <member refid="structbt__cap__initiator__broadcast__create__param_1a580737b0df95f866a016efa0ba3c0891" kind="variable"><name>broadcast_code</name></member>
+    <member refid="structbt__cap__initiator__broadcast__create__param_1aa4d6fbd5bd13963004e381b987bbeb4d" kind="variable"><name>broadcast_code</name></member>
     <member refid="structbt__cap__initiator__broadcast__create__param_1a6f562b7a696472b7784ca2e1ced4997a" kind="variable"><name>irc</name></member>
     <member refid="structbt__cap__initiator__broadcast__create__param_1a01d6ffb369caaf808d4b55b3b1748890" kind="variable"><name>pto</name></member>
     <member refid="structbt__cap__initiator__broadcast__create__param_1a8eedd8f9a896931f75642576ca37c7d5" kind="variable"><name>iso_interval</name></member>
@@ -19151,8 +19151,8 @@
     <member refid="group__arch-cache_1ga84e877997349df3e53eed11be6fc3caa" kind="function"><name>arch_icache_invd_range</name></member>
     <member refid="group__arch-cache_1gaa6caab419ca57523db54eb9125e7e1d0" kind="function"><name>arch_icache_flush_and_invd_range</name></member>
     <member refid="group__arch-cache_1ga717d37451103b7680bb54044d6ab1841" kind="function"><name>arch_icache_line_size_get</name></member>
-    <member refid="group__arch-cache_1gac71f7d75165de9402a2df3edaa1556aa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
-    <member refid="group__arch-cache_1ga5f69fb79310089a3d40bc5b4f08bdd5e" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
+    <member refid="group__arch-cache_1ga9ed1c303508eb68db80f14fdb6eb7faa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
+    <member refid="group__arch-cache_1gab6bdf8089dce42e4463f761bae56e652" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
     <member refid="group__arch-cache_1gabb31cd28a68b529ec0d7c389bb65bd9c" kind="function"><name>arch_cache_cached_ptr_get</name></member>
     <member refid="group__arch-cache_1ga1b507969ecccdaf7e47b16ba190bf816" kind="function"><name>arch_cache_uncached_ptr_get</name></member>
     <member refid="group__arch-cache_1gab8fdd6f8c65c44f832516054af7cd4f2" kind="function"><name>arch_cache_init</name></member>
@@ -89919,8 +89919,8 @@
     <member refid="group__arch-cache_1ga84e877997349df3e53eed11be6fc3caa" kind="function"><name>arch_icache_invd_range</name></member>
     <member refid="group__arch-cache_1gaa6caab419ca57523db54eb9125e7e1d0" kind="function"><name>arch_icache_flush_and_invd_range</name></member>
     <member refid="group__arch-cache_1ga717d37451103b7680bb54044d6ab1841" kind="function"><name>arch_icache_line_size_get</name></member>
-    <member refid="group__arch-cache_1gac71f7d75165de9402a2df3edaa1556aa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
-    <member refid="group__arch-cache_1ga5f69fb79310089a3d40bc5b4f08bdd5e" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
+    <member refid="group__arch-cache_1ga9ed1c303508eb68db80f14fdb6eb7faa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
+    <member refid="group__arch-cache_1gab6bdf8089dce42e4463f761bae56e652" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
     <member refid="group__arch-cache_1gabb31cd28a68b529ec0d7c389bb65bd9c" kind="function"><name>arch_cache_cached_ptr_get</name></member>
     <member refid="group__arch-cache_1ga1b507969ecccdaf7e47b16ba190bf816" kind="function"><name>arch_cache_uncached_ptr_get</name></member>
     <member refid="group__arch-cache_1gab8fdd6f8c65c44f832516054af7cd4f2" kind="function"><name>arch_cache_init</name></member>
