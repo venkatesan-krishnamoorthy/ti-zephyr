@@ -341,7 +341,7 @@
     <member refid="structarch__esf_1ad0dd8c99a9ce48010e9e08d7e383b7d2" kind="variable"><name>r8</name></member>
     <member refid="structarch__esf_1acf7d3578d1b0344973a8523d50dbc8fe" kind="variable"><name>r9</name></member>
     <member refid="structarch__esf_1ae7cb9f1cc93e72f962065db1dbb2f5ed" kind="variable"><name>r10</name></member>
-    <member refid="structarch__esf_1af27c45a02ae939f203f260e21c5efdb5" kind="variable"><name>fxsave</name></member>
+    <member refid="structarch__esf_1ad8800ab57271ecbd74b382b47400fe4a" kind="variable"><name>fxsave</name></member>
     <member refid="structarch__esf_1a924e670be0130045943471415b674374" kind="variable"><name>r11</name></member>
     <member refid="structarch__esf_1a70ca625eb2771d9abc1de78184fbdf25" kind="variable"><name>vector</name></member>
     <member refid="structarch__esf_1a18518c240b772ead3b8a28a033ec3ae4" kind="variable"><name>code</name></member>
@@ -17426,7 +17426,7 @@
     <member refid="structx86__ssf_1a0f9f74e4f2790197819babea4c9c5e7e" kind="variable"><name>r8</name></member>
     <member refid="structx86__ssf_1a29bf7a38c8fc2347a2930a71d1b724ec" kind="variable"><name>rdx</name></member>
     <member refid="structx86__ssf_1adec257b785157623eb9932bb3ff62932" kind="variable"><name>rsi</name></member>
-    <member refid="structx86__ssf_1a50e764f5066662238d2b3b117d199db2" kind="variable"><name>fxsave</name></member>
+    <member refid="structx86__ssf_1ac00879a99d2369b2832ab41febe08ced" kind="variable"><name>fxsave</name></member>
     <member refid="structx86__ssf_1a9afd12452d8f44c1c4b391bc77afbaec" kind="variable"><name>rdi</name></member>
     <member refid="structx86__ssf_1a080aae764546e381f6455abf18fb6853" kind="variable"><name>rsp</name></member>
   </compound>
@@ -19151,8 +19151,8 @@
     <member refid="group__arch-cache_1ga84e877997349df3e53eed11be6fc3caa" kind="function"><name>arch_icache_invd_range</name></member>
     <member refid="group__arch-cache_1gaa6caab419ca57523db54eb9125e7e1d0" kind="function"><name>arch_icache_flush_and_invd_range</name></member>
     <member refid="group__arch-cache_1ga717d37451103b7680bb54044d6ab1841" kind="function"><name>arch_icache_line_size_get</name></member>
-    <member refid="group__arch-cache_1gac71f7d75165de9402a2df3edaa1556aa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
-    <member refid="group__arch-cache_1ga5f69fb79310089a3d40bc5b4f08bdd5e" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
+    <member refid="group__arch-cache_1ga9ed1c303508eb68db80f14fdb6eb7faa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
+    <member refid="group__arch-cache_1gab6bdf8089dce42e4463f761bae56e652" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
     <member refid="group__arch-cache_1gabb31cd28a68b529ec0d7c389bb65bd9c" kind="function"><name>arch_cache_cached_ptr_get</name></member>
     <member refid="group__arch-cache_1ga1b507969ecccdaf7e47b16ba190bf816" kind="function"><name>arch_cache_uncached_ptr_get</name></member>
     <member refid="group__arch-cache_1gab8fdd6f8c65c44f832516054af7cd4f2" kind="function"><name>arch_cache_init</name></member>
@@ -35485,7 +35485,6 @@
     <member refid="group__veml6031__interface_1gaf62d29159c2a40cbd8cd1e3d7522afb9" kind="enum"><name>sensor_channel_veml6031</name></member>
   </compound>
   <compound refid="veml6046_8h" kind="file"><name>veml6046.h</name>
-    <member refid="veml6046_8h_1a8b1aa2eefaeeaf17b6e4b5f1dcf72429" kind="define"><name>ZEPHYR_INCLUDE_DRIVERS_SENSOR_VEML6046_H_</name></member>
     <member refid="group__veml6046__interface_1ga3747fce9eeb66d848ac53793be999607" kind="enum"><name>veml6046_pdd</name></member>
     <member refid="group__veml6046__interface_1gaa2daffcfea5560747a19e84e42c6c335" kind="enum"><name>sensor_attribute_veml6046</name></member>
     <member refid="group__veml6046__interface_1gacb4b1e3922372b95053c0afb488fb75d" kind="enum"><name>sensor_channel_veml6046</name></member>
@@ -83272,14 +83271,14 @@
     <member refid="group__atomic__apis_1ga7366802f7b11d3c5f9487f4fea9fc4d7" kind="define"><name>ATOMIC_PTR_INIT</name></member>
     <member refid="group__atomic__apis_1gafac28874aaad3bcec72c693186e988cb" kind="define"><name>ATOMIC_BITMAP_SIZE</name></member>
     <member refid="group__atomic__apis_1ga249c575db9764486197709b327f7370e" kind="define"><name>ATOMIC_DEFINE</name></member>
-    <member refid="group__atomic__apis_1ga190ddc108f45e7649689753c08658eae" kind="function"><name>atomic_test_bit</name></member>
-    <member refid="group__atomic__apis_1ga53159437721084da0ec8ee70ec212472" kind="function"><name>atomic_test_and_clear_bit</name></member>
-    <member refid="group__atomic__apis_1ga7ff45e13aa5f8be5d7a550e49f5c720b" kind="function"><name>atomic_test_and_set_bit</name></member>
+    <member refid="group__atomic__apis_1ga153c7d3a124e95ddf29e6f65bd124e44" kind="function"><name>atomic_test_bit</name></member>
+    <member refid="group__atomic__apis_1ga4878e529d511f7e11db63fa5728bd352" kind="function"><name>atomic_test_and_clear_bit</name></member>
+    <member refid="group__atomic__apis_1ga042174774d12e52519be91ee6aeaf2ec" kind="function"><name>atomic_test_and_set_bit</name></member>
     <member refid="group__atomic__apis_1ga1c1693d524c49d11fd32b323a39d718e" kind="function"><name>atomic_clear_bit</name></member>
     <member refid="group__atomic__apis_1ga17a3961ba7610ad6e595e602f70344a0" kind="function"><name>atomic_set_bit</name></member>
-    <member refid="group__atomic__apis_1gad749f16ca51ffc26e7303988de1b8dbf" kind="function"><name>atomic_set_bit_to</name></member>
-    <member refid="group__atomic__apis_1gab879da5aa1ffcc317adc664c016586f7" kind="function"><name>atomic_cas</name></member>
-    <member refid="group__atomic__apis_1ga98f03db5ef2b36ff3412506a7f6d9558" kind="function"><name>atomic_ptr_cas</name></member>
+    <member refid="group__atomic__apis_1ga694d6953cc75e92a4d8e387256c0a2ed" kind="function"><name>atomic_set_bit_to</name></member>
+    <member refid="group__atomic__apis_1gaef275bd78e093e5b5177ef725d0f570a" kind="function"><name>atomic_cas</name></member>
+    <member refid="group__atomic__apis_1gac83bb88616b79ffcfff140377bea983d" kind="function"><name>atomic_ptr_cas</name></member>
     <member refid="group__atomic__apis_1ga518c07595daaca29a9e53071ed59c9c0" kind="function"><name>atomic_add</name></member>
     <member refid="group__atomic__apis_1ga84ab58fd0a6dbbf1bf675722b5900bd7" kind="function"><name>atomic_sub</name></member>
     <member refid="group__atomic__apis_1gaae47a9cbe5a6534967b417f602b37ac2" kind="function"><name>atomic_inc</name></member>
@@ -89919,8 +89918,8 @@
     <member refid="group__arch-cache_1ga84e877997349df3e53eed11be6fc3caa" kind="function"><name>arch_icache_invd_range</name></member>
     <member refid="group__arch-cache_1gaa6caab419ca57523db54eb9125e7e1d0" kind="function"><name>arch_icache_flush_and_invd_range</name></member>
     <member refid="group__arch-cache_1ga717d37451103b7680bb54044d6ab1841" kind="function"><name>arch_icache_line_size_get</name></member>
-    <member refid="group__arch-cache_1gac71f7d75165de9402a2df3edaa1556aa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
-    <member refid="group__arch-cache_1ga5f69fb79310089a3d40bc5b4f08bdd5e" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
+    <member refid="group__arch-cache_1ga9ed1c303508eb68db80f14fdb6eb7faa" kind="function"><name>arch_cache_is_ptr_cached</name></member>
+    <member refid="group__arch-cache_1gab6bdf8089dce42e4463f761bae56e652" kind="function"><name>arch_cache_is_ptr_uncached</name></member>
     <member refid="group__arch-cache_1gabb31cd28a68b529ec0d7c389bb65bd9c" kind="function"><name>arch_cache_cached_ptr_get</name></member>
     <member refid="group__arch-cache_1ga1b507969ecccdaf7e47b16ba190bf816" kind="function"><name>arch_cache_uncached_ptr_get</name></member>
     <member refid="group__arch-cache_1gab8fdd6f8c65c44f832516054af7cd4f2" kind="function"><name>arch_cache_init</name></member>
@@ -90317,14 +90316,14 @@
     <member refid="group__sys__notify__apis_1ga9772f8b356685acd707bd905860a2ca7" kind="function"><name>sys_notify_uses_callback</name></member>
   </compound>
   <compound refid="group__atomic__apis" kind="group"><name>atomic_apis</name>
-    <member refid="group__atomic__apis_1ga190ddc108f45e7649689753c08658eae" kind="function"><name>atomic_test_bit</name></member>
-    <member refid="group__atomic__apis_1ga53159437721084da0ec8ee70ec212472" kind="function"><name>atomic_test_and_clear_bit</name></member>
-    <member refid="group__atomic__apis_1ga7ff45e13aa5f8be5d7a550e49f5c720b" kind="function"><name>atomic_test_and_set_bit</name></member>
+    <member refid="group__atomic__apis_1ga153c7d3a124e95ddf29e6f65bd124e44" kind="function"><name>atomic_test_bit</name></member>
+    <member refid="group__atomic__apis_1ga4878e529d511f7e11db63fa5728bd352" kind="function"><name>atomic_test_and_clear_bit</name></member>
+    <member refid="group__atomic__apis_1ga042174774d12e52519be91ee6aeaf2ec" kind="function"><name>atomic_test_and_set_bit</name></member>
     <member refid="group__atomic__apis_1ga1c1693d524c49d11fd32b323a39d718e" kind="function"><name>atomic_clear_bit</name></member>
     <member refid="group__atomic__apis_1ga17a3961ba7610ad6e595e602f70344a0" kind="function"><name>atomic_set_bit</name></member>
-    <member refid="group__atomic__apis_1gad749f16ca51ffc26e7303988de1b8dbf" kind="function"><name>atomic_set_bit_to</name></member>
-    <member refid="group__atomic__apis_1gab879da5aa1ffcc317adc664c016586f7" kind="function"><name>atomic_cas</name></member>
-    <member refid="group__atomic__apis_1ga98f03db5ef2b36ff3412506a7f6d9558" kind="function"><name>atomic_ptr_cas</name></member>
+    <member refid="group__atomic__apis_1ga694d6953cc75e92a4d8e387256c0a2ed" kind="function"><name>atomic_set_bit_to</name></member>
+    <member refid="group__atomic__apis_1gaef275bd78e093e5b5177ef725d0f570a" kind="function"><name>atomic_cas</name></member>
+    <member refid="group__atomic__apis_1gac83bb88616b79ffcfff140377bea983d" kind="function"><name>atomic_ptr_cas</name></member>
     <member refid="group__atomic__apis_1ga518c07595daaca29a9e53071ed59c9c0" kind="function"><name>atomic_add</name></member>
     <member refid="group__atomic__apis_1ga84ab58fd0a6dbbf1bf675722b5900bd7" kind="function"><name>atomic_sub</name></member>
     <member refid="group__atomic__apis_1gaae47a9cbe5a6534967b417f602b37ac2" kind="function"><name>atomic_inc</name></member>
@@ -114569,6 +114568,11 @@
   <compound refid="dir_baac9b2eb462986e22d73d5689d3a238" kind="dir"><name>/home/runner/work/ti-zephyr/ti-zephyr/zephyr/subsys/testsuite/ztest</name>
   </compound>
   <compound refid="dir_a6e4a0e6a33fa53cdc30153b7c96e222" kind="dir"><name>zephyr/zvfs</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>
+22" kind="dir"><name>zephyr/zvfs</name>
   </compound>
   <compound refid="indexpage" kind="page"><name>index</name>
   </compound>

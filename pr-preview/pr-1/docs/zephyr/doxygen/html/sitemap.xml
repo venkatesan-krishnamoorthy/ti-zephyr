@@ -8,13 +8,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/acpi__osal_8h_source.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/app__memory_2partitions_8h_source.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/app__memdomain_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mem__domain_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/app__memory_2partitions_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/devicetree_2partitions_8h_source.html</loc>
@@ -68,10 +68,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arc__secure_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arc__vpx_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch__interface_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch__interface_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arc__vpx_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arm-m-switch_8h_source.html</loc>
@@ -155,10 +155,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mmu_2arm__mmu_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/4_2arm__mmu_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mpu_2arm__mpu_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mpu_2arm__mpu_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/4_2arm__mmu_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/4_2cortex__r_2arm__mpu_8h_source.html</loc>
@@ -305,6 +305,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/icsr_8h_source.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/pmp_8h_source.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sw__nmi__table_8h_source.html</loc>
   </url>
   <url>
@@ -318,9 +321,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/efi_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/pmp_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/asm_8h_source.html</loc>
@@ -374,10 +374,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/legacy__bios_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2interrupt__controller_2intel__vtd_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/memmap_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/memmap_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2interrupt__controller_2intel__vtd_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mmustructs_8h_source.html</loc>
@@ -470,10 +470,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2arch__inlines_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xtensa_2arch__inlines_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/atomic__xtensa_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/atomic__xtensa_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xtensa_2arch__inlines_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arc_2v2_2exception_8h_source.html</loc>
@@ -626,10 +626,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2posix_2thread_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2rx_2thread_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2riscv_2thread_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2riscv_2thread_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2rx_2thread_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2sparc_2thread_8h_source.html</loc>
@@ -638,10 +638,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2x86_2ia32_2thread_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2xtensa_2thread_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2x86_2intel64_2thread_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2x86_2intel64_2thread_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arch_2xtensa_2thread_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/kernel_2thread_8h_source.html</loc>
@@ -665,10 +665,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/codec_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/midi_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dmic_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dmic_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/midi_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/bindesc_8h_source.html</loc>
@@ -719,10 +719,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lc3_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mcc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mcs_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mcs_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mcc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/media__proxy_8h_source.html</loc>
@@ -878,10 +878,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dfd_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dfd__srv_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dfu_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dfu_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dfd__srv_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dfu__cli_8h_source.html</loc>
@@ -899,10 +899,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/health__faults_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/heartbeat_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/health__srv_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/health__srv_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/heartbeat_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/bluetooth_2mesh_2keys_8h_source.html</loc>
@@ -941,13 +941,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/priv__beacon__srv_8h_source.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/proxy_8h_source.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/rpr_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/rpr__cli_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/proxy_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sar__cfg_8h_source.html</loc>
@@ -960,6 +960,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sar__cfg__srv_8h_source.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sol__pdu__rpl__cli_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sol__pdu__rpl__srv_8h_source.html</loc>
@@ -975,9 +978,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/bas_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sol__pdu__rpl__cli_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/cts_8h_source.html</loc>
@@ -1115,10 +1115,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mcuboot_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mb__display_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cfb_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cfb_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mb__display_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mipi__display_8h_source.html</loc>
@@ -1127,10 +1127,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ssd16xx_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2adc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2adc_2adc_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2adc_2adc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2adc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/adc__emul_8h_source.html</loc>
@@ -1193,10 +1193,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/transceiver_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/charger_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cellular_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cellular_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/charger_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2charger_2npm10xx_8h_source.html</loc>
@@ -1319,10 +1319,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/clock__control_2sf32lb_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma_2sf32lb_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smartbond__clock__control_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smartbond__clock__control_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma_2sf32lb_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32__clock__control_8h_source.html</loc>
@@ -1331,10 +1331,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/tisci__clock__control_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fake__comp_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/comparator_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/comparator_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fake__comp_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/comparator_2mcux__acmp_8h_source.html</loc>
@@ -1355,16 +1355,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/posix__arch__console_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/uart__console_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/uart__mcumgr_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/uart__mcumgr_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/uart__console_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/debug_2coredump_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2coredump_8h_source.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2counter_2ti__am3352__eqep_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2counter_2ti__am3352__eqep_8h_source.html</loc>
@@ -1388,9 +1391,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stmesp_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2counter_2ti__am3352__eqep_8h_source.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/disk_8h_source.html</loc>
   </url>
   <url>
@@ -1403,16 +1403,16 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2display_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ac057tc1_8h_source.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/devicetree_2dma_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__esp32_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ac057tc1_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2dma_8h_source.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__esp32_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__gd32_8h_source.html</loc>
@@ -1463,10 +1463,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__fuel__gauge_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__stub__device_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__sensor_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__sensor_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__stub__device_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/entropy_8h_source.html</loc>
@@ -1496,6 +1496,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/eth__nxp__enet__qos_8h_source.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp__imx__netc_8h_source.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/qemu__fwcfg_8h_source.html</loc>
   </url>
   <url>
@@ -1506,9 +1509,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2firmware_2scmi_2pinctrl_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp__imx__netc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2pinctrl_8h_source.html</loc>
@@ -1523,10 +1523,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/modem_2ubx_2protocol_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp_2system_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/shmem_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/shmem_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp_2system_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/system_8h_source.html</loc>
@@ -1550,19 +1550,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/it51xxx__flash__api__ex_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mchp__flash_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/m95p32__flash__api__extensions_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/m95p32__flash__api__extensions_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mchp__flash_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mchp__nvmctrl__g1_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nrf__qspi__nor_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/npcx__flash__api__ex_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/npcx__flash__api__ex_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nrf__qspi__nor_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ra__flash__api__extensions_8h_source.html</loc>
@@ -1670,10 +1670,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/i2c_2target_2eeprom_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/i2c__emul_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/i2s_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/i2s_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/i2c__emul_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/i3c_8h_source.html</loc>
@@ -1682,10 +1682,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/addresses_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ccc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/error__types_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/error__types_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ccc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/hdr__ddr_8h_source.html</loc>
@@ -1754,10 +1754,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/intc__rz__tint_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/intc__vim_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/intc__wkpu__nxp__s32_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/intc__wkpu__nxp__s32_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/intc__vim_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/intc__xmc4xxx_8h_source.html</loc>
@@ -1796,16 +1796,16 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/wuc__ite__it51xxx_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipm_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/wuc__ite__it8xxx2_8h_source.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2led_2led_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2led_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/wuc__ite__it8xxx2_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2led_2led_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipm_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/is31fl3733_8h_source.html</loc>
@@ -1814,19 +1814,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lp50xx_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/tlc5971_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/led__strip_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/led__strip_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/tlc5971_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/loopback__disk_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/devicetree_2mbox_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lora_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lora_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/devicetree_2mbox_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2mbox_8h_source.html</loc>
@@ -1859,6 +1859,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ds3231_8h_source.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/max22017_8h_source.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mfd_2max2221x_8h_source.html</loc>
   </url>
   <url>
@@ -1866,9 +1869,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/pwm_2max2221x_8h_source.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/max22017_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mfd_2max31790_8h_source.html</loc>
@@ -1880,10 +1880,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sensor_2max31790_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mc146818_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mfd__ite__it8801_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mfd__ite__it8801_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mc146818_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mfd__maxq10xx_8h_source.html</loc>
@@ -1988,10 +1988,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/renesas__rx__external__interrupt_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti__cc35xx__hsm_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32__wkup__pins_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32__wkup__pins_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti__cc35xx__hsm_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/timeaware__gpio_8h_source.html</loc>
@@ -2117,10 +2117,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2power_2atmel__sam__supc_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2power_2atmel__sam__supc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ps2_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ps2_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2power_2atmel__sam__supc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/psi5_8h_source.html</loc>
@@ -2207,10 +2207,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/adt7420_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2adxl355_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2adxl355_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2adxl355_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2adxl355_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2afbr__s50_8h_source.html</loc>
@@ -2276,19 +2276,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2it8xxx2__vcmp_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2lis2dh_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2lis2dh_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2lis2dh_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2lis2dh_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lm95234_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2lsm6dsvxxx_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2lsm6dsvxxx_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2lsm6dsvxxx_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2lsm6dsvxxx_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/max17055_8h_source.html</loc>
@@ -2351,10 +2351,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/s3km1110_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/scd4x_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sgp40_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sgp40_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/scd4x_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sht4x_8h_source.html</loc>
@@ -2381,10 +2381,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/tmp108_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2tmp11x_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2tmp11x_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2tmp11x_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2tmp11x_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/tsl2540_8h_source.html</loc>
@@ -2393,10 +2393,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/tsl2591_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/veml6031_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/veaa__x__3_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/veaa__x__3_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/veml6031_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/veml6046_8h_source.html</loc>
@@ -2465,10 +2465,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sip__svc__agilex__smc_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sip__svc__driver_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sip__svc__proto_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sip__svc__proto_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sip__svc__driver_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/smbus_8h_source.html</loc>
@@ -2477,10 +2477,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/devicetree_2spi_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2spi_2spi_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2spi_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2spi_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2spi_2spi_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/spi__emul_8h_source.html</loc>
@@ -2585,10 +2585,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/usbc__pd_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/usbc__tc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/usbc__ppc_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/usbc__ppc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/usbc__tc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/usbc__tcpc_8h_source.html</loc>
@@ -2603,10 +2603,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2video_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/video_2video_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arducam__mega_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/arducam__mega_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/video_2video_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32__dcmipp_8h_source.html</loc>
@@ -2999,10 +2999,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/xg21-clock_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xg23-clock_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xg22-clock_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xg22-clock_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xg23-clock_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/xg24-clock_8h_source.html</loc>
@@ -3266,10 +3266,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/xlnx__gem_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ospi_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/npcx__fiu__qspi_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/npcx__fiu__qspi_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ospi_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/xspi_8h_source.html</loc>
@@ -3317,10 +3317,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/espressif-esp32-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ite-it8xxx2-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/infineon-xmc4xxx-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/infineon-xmc4xxx-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ite-it8xxx2-gpio_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/microchip-port-g1-gpio_8h_source.html</loc>
@@ -3344,19 +3344,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-nrf-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/numicro-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nuvoton-npcx-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nuvoton-npcx-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/numicro-gpio_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-imx-igpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-kinetis-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-siul2-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-siul2-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-kinetis-gpio_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/pca-series-gpio_8h_source.html</loc>
@@ -3395,10 +3395,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/snps-designware-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/st-morpho-header_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32-gpio_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32-gpio_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/st-morpho-header_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti-cc13xx-cc26xx-gpio_8h_source.html</loc>
@@ -3407,10 +3407,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/it51xxx-i2c_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/npcx-i2c_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/it8xxx2-i2c_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/it8xxx2-i2c_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/npcx-i2c_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti-unicomm-i2c_8h_source.html</loc>
@@ -3425,10 +3425,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/cst8xx-gesture-codes_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32-touch-sensor-input_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/input-event-codes_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/input-event-codes_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32-touch-sensor-input_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/keymap_8h_source.html</loc>
@@ -3503,10 +3503,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/seagate__legend__b1414_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/worldsemi__ws2812c_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sx126x_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sx126x_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/worldsemi__ws2812c_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lvgl_8h_source.html</loc>
@@ -3722,10 +3722,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ene-kb1200-pinctrl_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp-pinctrl-common_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32-gpio-sigmap_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32-gpio-sigmap_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp-pinctrl-common_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32-pinctrl_8h_source.html</loc>
@@ -4010,10 +4010,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp__rw__pmu_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32__pwr_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32h5__iocell_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32h5__iocell_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32__pwr_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32h7rs__iocell_8h_source.html</loc>
@@ -4082,10 +4082,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-owned-memory_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ast10x0__reset_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/focaltech__ft9001__reset_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/focaltech__ft9001__reset_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ast10x0__reset_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/gd32-common_8h_source.html</loc>
@@ -4157,10 +4157,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/rp2040__reset_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rts5817__reset_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rp2350__reset_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rp2350__reset_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rts5817__reset_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sf32lb__reset_8h_source.html</loc>
@@ -4217,10 +4217,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32u0__reset_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32u5__reset_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32u3__reset_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32u3__reset_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32u5__reset_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32wb0__reset_8h_source.html</loc>
@@ -4331,10 +4331,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lsm6dsv32x_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lsm6dsv80x_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lsm9ds1_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lsm9ds1_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lsm6dsv80x_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mc3419_8h_source.html</loc>
@@ -4403,13 +4403,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ext2_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fcb_8h_source.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs__interface_8h_source.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fcb_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs__sys_8h_source.html</loc>
@@ -4430,10 +4430,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs_2zms_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/kvss_2zms_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/decoder_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/decoder_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/kvss_2zms_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtk_8h_source.html</loc>
@@ -4457,10 +4457,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__hid_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__keymap_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__kbd__matrix_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__kbd__matrix_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__keymap_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__pat912x_8h_source.html</loc>
@@ -4589,10 +4589,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/llext_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/loader_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/llext__internal_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/llext__internal_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/loader_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/symbol_8h_source.html</loc>
@@ -4787,19 +4787,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mgmt_2mcumgr_2smp_2smp_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__bt_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mgmt_2mcumgr_2transport_2smp_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mgmt_2mcumgr_2transport_2smp_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__bt_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__dummy_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__shell_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__raw__dummy_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__raw__dummy_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__shell_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/smp__udp_8h_source.html</loc>
@@ -4808,10 +4808,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/updatehub_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/osdp_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lorem__ipsum_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lorem__ipsum_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/osdp_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/modbus_8h_source.html</loc>
@@ -4961,10 +4961,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/parser__url_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/server_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/service_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/service_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/server_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/status_8h_source.html</loc>
@@ -4979,10 +4979,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__ie_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__mgmt_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__pkt_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__pkt_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__mgmt_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__radio_8h_source.html</loc>
@@ -4991,10 +4991,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__radio__openthread_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipv4__autoconf_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/igmp_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/igmp_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipv4__autoconf_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/latmon_8h_source.html</loc>
@@ -5330,10 +5330,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/pwd_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2public_2sched_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/posix_2sched_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/posix_2sched_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2public_2sched_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/semaphore_8h_source.html</loc>
@@ -5369,13 +5369,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/net_2socket_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sysconf_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/posix_2sys_2socket_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stat_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/posix_2sys_2socket_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sysconf_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/include_2zephyr_2posix_2sys_2time_8h_source.html</loc>
@@ -5393,10 +5393,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/syslog_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/unistd_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/its__ids_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/its__ids_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/unistd_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/key__ids_8h_source.html</loc>
@@ -5414,10 +5414,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/bootmode_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cqe_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/retention_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/retention_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cqe_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/iodev_8h_source.html</loc>
@@ -5447,10 +5447,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mmc_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sd__spec_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sd_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sd_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sd__spec_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sdio_8h_source.html</loc>
@@ -5609,10 +5609,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sys_2cpu__load_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sys_2crc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2crc_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2crc_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sys_2crc_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/device__mmio_8h_source.html</loc>
@@ -5669,10 +5669,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/math__extras__impl_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mem__manage_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mem__blocks_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mem__blocks_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mem__manage_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mem__stats_8h_source.html</loc>
@@ -5741,10 +5741,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/spsc__lockfree_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sys__getopt_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/spsc__pbuf_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/spsc__pbuf_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sys__getopt_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sys__heap_8h_source.html</loc>
@@ -5954,10 +5954,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2console_2console_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2console_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2public_2io_2console_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2public_2io_2console_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2console_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dmop_8h_source.html</loc>
@@ -6146,10 +6146,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/test__toolchain_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/timestamp_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/benchmark_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/benchmark_8h_source.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/timestamp_8h_source.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ztest_8h_source.html</loc>
@@ -6170,10 +6170,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ztress_8h_source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mainpage_8md.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/groups_8dox.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/groups_8dox.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/mainpage_8md.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/acpi__osal_8h.html</loc>
@@ -6599,10 +6599,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2arch_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2intel64_2arch_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2ia32_2arch_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2ia32_2arch_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2intel64_2arch_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/xtensa_2arch_8h.html</loc>
@@ -6737,10 +6737,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/arm64_2structs_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structs_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/riscv_2structs_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/riscv_2structs_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structs_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/x86_2ia32_2structs_8h.html</loc>
@@ -7142,10 +7142,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/statistic_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sbc_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ans_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ans_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sbc_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/bas_8h.html</loc>
@@ -7583,10 +7583,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2dma_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__gd32_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__esp32_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__esp32_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__gd32_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dma__intel__lpss_8h.html</loc>
@@ -7625,10 +7625,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/edac__synopsys_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/eeprom__fake_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__bbram_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__bbram_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/eeprom__fake_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/emul__fuel__gauge_8h.html</loc>
@@ -7991,10 +7991,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/tlc5971_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/loopback__disk_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lora_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lora_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/loopback__disk_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/devicetree_2mbox_8h.html</loc>
@@ -8357,10 +8357,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtc__max31331_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sdhc_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtc__ti__mspm0_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtc__ti__mspm0_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/sdhc_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sensor_8h.html</loc>
@@ -8462,6 +8462,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/dt-bindings_2sensor_2lsm6dsvxxx_8h.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/max17055_8h.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/max30210_8h.html</loc>
   </url>
   <url>
@@ -8484,9 +8487,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mlx90394_8h.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/max17055_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mmc56x3_8h.html</loc>
@@ -8537,10 +8537,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/tdk__apex_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti__vtm_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti__hdc302x_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti__hdc302x_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ti__vtm_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/drivers_2sensor_2tmag5273_8h.html</loc>
@@ -8924,10 +8924,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ch32v20x__30x-clocks_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32__clock_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/em32__clock_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/em32__clock_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32__clock_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/esp32c2__clock_8h.html</loc>
@@ -9509,10 +9509,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-npm2100-gpio_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-npm6001-gpio_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-nrf-gpio_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-nrf-gpio_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nordic-npm6001-gpio_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/numicro-gpio_8h.html</loc>
@@ -9527,10 +9527,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-kinetis-gpio_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/pca-series-gpio_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-siul2-gpio_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/nxp-siul2-gpio_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/pca-series-gpio_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/raspberrypi-csi-connector_8h.html</loc>
@@ -9683,6 +9683,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lvgl_8h.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/memory-attr-arm_8h.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/memory-attr-arm64_8h.html</loc>
   </url>
   <url>
@@ -9690,9 +9693,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/memory-attr-sw_8h.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/memory-attr-arm_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/memory-attr-xtensa_8h.html</loc>
@@ -9866,10 +9866,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/cc13xx__cc26xx-pinctrl_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cc23x0-pinctrl_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cc27xx-pinctrl_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cc27xx-pinctrl_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/cc23x0-pinctrl_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ch32v003-pinctrl_8h.html</loc>
@@ -10346,10 +10346,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32c5__reset_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32f0__1__3__reset_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32f2__4__7__reset_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32f2__4__7__reset_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32f0__1__3__reset_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32g0__reset_8h.html</loc>
@@ -10397,10 +10397,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32wb0__reset_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32wb__l__reset_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32wba__reset_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32wba__reset_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/stm32wb__l__reset_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/syna__sr100__reset_8h.html</loc>
@@ -10421,10 +10421,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/apds9253_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/bmp581_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/bq274xx_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/bq274xx_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/bmp581_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/icm42686_8h.html</loc>
@@ -10475,10 +10475,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lis2du12_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lis2dw12_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lis2dux12_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lis2dux12_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lis2dw12_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/lps22hh_8h.html</loc>
@@ -10586,10 +10586,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs__sys_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs_2nvs_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/littlefs_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/littlefs_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fs_2nvs_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/kvss_2nvs_8h.html</loc>
@@ -10607,6 +10607,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/decoder_8h.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtk_8h.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtk__publish_8h.html</loc>
   </url>
   <url>
@@ -10620,9 +10623,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__analog__axis__settings_8h.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/rtk_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/input__hid_8h.html</loc>
@@ -10667,10 +10667,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/icmsg__me_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipc__service_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipc__rpmsg_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipc__rpmsg_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipc__service_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ipc__service__backend_8h.html</loc>
@@ -10979,10 +10979,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/osdp_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lorem__ipsum_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/updatehub_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/updatehub_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/lorem__ipsum_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/modbus_8h.html</loc>
@@ -11051,10 +11051,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/connectivity__wifi__mgmt_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/conn__mgr__connectivity__impl_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/conn__mgr__connectivity_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/conn__mgr__connectivity_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/conn__mgr__connectivity__impl_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/conn__mgr__monitor_8h.html</loc>
@@ -11096,13 +11096,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ethernet__mgmt_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ethernet__vlan_8h.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ftp__client_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/gptp_8h.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ethernet__vlan_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/hdlc__rcp__if_8h.html</loc>
@@ -11150,9 +11150,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__ie_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__mgmt_8h.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__pkt_8h.html</loc>
   </url>
   <url>
@@ -11160,6 +11157,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__radio__openthread_8h.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/ieee802154__mgmt_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/igmp_8h.html</loc>
@@ -11303,10 +11303,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/label_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/summary_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/metric_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/metric_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/summary_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/promiscuous_8h.html</loc>
@@ -11453,13 +11453,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/fcntl_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fnmatch_8h.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/grp_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/mqueue_8h.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/fnmatch_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/if_8h.html</loc>
@@ -11504,10 +11504,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/posix_2sched_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2public_2sched_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/semaphore_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/semaphore_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/xen_2public_2sched_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stropts_8h.html</loc>
@@ -11702,16 +11702,16 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/sip__svc__controller_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smf_8h.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/spinlock_8h.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/flash__map_8h.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/smf_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/disk__access_8h.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/flash__map_8h.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/stream__flash_8h.html</loc>
@@ -15617,13 +15617,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/group__devicetree-reg-prop.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structacpi__dev.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/unionacpi__dmar__id.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structacpi__irq__resource.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structacpi__dev.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structacpi__mcfg.html</loc>
@@ -15644,10 +15644,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structadc__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structadc__data__generic__header.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structadc__data_1_1adc__sample__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structadc__data_1_1adc__sample__data.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structadc__data__generic__header.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structadc__data__header.html</loc>
@@ -15737,6 +15737,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarch__vcpu__info.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarm__clock__control__t.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarm__mmu__config.html</loc>
   </url>
   <url>
@@ -15747,9 +15750,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarm__mpu__config.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarm__clock__control__t.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarm__mpu__region.html</loc>
@@ -15788,6 +15788,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structauxdisplay__light.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarch__esf_1_1____basic__sf.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbbram__driver__api.html</loc>
   </url>
   <url>
@@ -15795,9 +15798,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbindesc__entry.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structarch__esf_1_1____basic__sf.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbindesc__handle.html</loc>
@@ -15851,9 +15851,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__addr__le__t.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__addr__t.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__aics.html</loc>
   </url>
   <url>
@@ -15861,6 +15858,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__aics__discover__param.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__addr__t.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__aics__register__param.html</loc>
@@ -16208,10 +16208,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__broadcast__source.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__commander__broadcast__reception__start__member__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__commander__broadcast__reception__start__param.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__commander__broadcast__reception__start__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__commander__broadcast__reception__start__member__param.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__commander__broadcast__reception__stop__member__param.html</loc>
@@ -16280,10 +16280,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__unicast__audio__start__param.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__unicast__audio__stop__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__unicast__audio__start__stream__param.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__unicast__audio__start__stream__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__unicast__audio__stop__param.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__cap__unicast__audio__update__param.html</loc>
@@ -16370,13 +16370,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__cs__subevent__result.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__data__len__info.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__data__len__param.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__frame__space__update__param.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__data__len__info.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__frame__space__updated.html</loc>
@@ -16388,10 +16388,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__min__conn__interval__group.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__min__conn__interval__info.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__path__loss__reporting__param.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__path__loss__reporting__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__min__conn__interval__info.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__path__loss__threshold__report.html</loc>
@@ -16400,10 +16400,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__phy__info.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__phy__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__read__all__remote__feat__complete.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__read__all__remote__feat__complete.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__phy__param.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__conn__le__remote__info.html</loc>
@@ -16628,9 +16628,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__codec__id.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__configure__data__path.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__connect.html</loc>
   </url>
   <url>
@@ -16638,6 +16635,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__disconnect.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__configure__data__path.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__exit__sniff__mode.html</loc>
@@ -16940,10 +16940,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__le__set__per__adv__param__v2.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__le__set__phy.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__le__set__per__adv__recv__enable.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__le__set__per__adv__recv__enable.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__le__set__phy.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__cp__le__set__privacy__mode.html</loc>
@@ -17186,10 +17186,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__auth__complete.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__cc__status.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__auth__payload__timeout__exp.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__auth__payload__timeout__exp.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__cc__status.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__cmd__complete.html</loc>
@@ -17309,10 +17309,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__cs__security__enable__complete.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__cs__subevent__result.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__cs__subevent__result__continue.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__cs__subevent__result__continue.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__cs__subevent__result.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__cs__subevent__result__step.html</loc>
@@ -17336,10 +17336,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__enh__conn__complete.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__ext__advertising__info.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__enh__conn__complete__v2.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__enh__conn__complete__v2.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__ext__advertising__info.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__le__ext__advertising__report.html</loc>
@@ -17492,9 +17492,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__evt__vs__trace__info.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__ext__adv__set.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__ext__conn__phy.html</loc>
   </url>
   <url>
@@ -17505,6 +17502,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__iac__lap.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__ext__adv__set.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__hci__iso__hdr.html</loc>
@@ -18233,10 +18233,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__cdb__app__key.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__cdb__subnet.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__cdb__node.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__cdb__node.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__cdb__subnet.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__cfg__cli.html</loc>
@@ -18323,10 +18323,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__dfu__slot.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__dfu__srv.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__dfu__srv__cb.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__dfu__srv__cb.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__dfu__srv.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__dfu__target.html</loc>
@@ -18344,13 +18344,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__hb__cb.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__hb__sub.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__elem_1_1bt__mesh__elem__rt__ctx.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__hb__pub.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__hb__sub.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__mesh__health__cli.html</loc>
@@ -18515,9 +18515,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__ots.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__ots__cb.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__ots__client.html</loc>
   </url>
   <url>
@@ -18525,6 +18522,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__ots__date__time.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__ots__cb.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__ots__feat.html</loc>
@@ -18578,10 +18578,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__sdp__attr__value__text.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__sdp__attr__value__uint.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__sdp__attr__value__url.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__sdp__attr__value__url.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__sdp__attr__value__uint.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__sdp__attribute.html</loc>
@@ -18623,10 +18623,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__tbs__instance.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__tmap__cb.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__tbs__register__param.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__tbs__register__param.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__tmap__cb.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__uuid.html</loc>
@@ -18644,10 +18644,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__uuid__any.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__vcp__vol__ctlr.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__vcp__included.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__vcp__included.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__vcp__vol__ctlr.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structbt__vcp__vol__ctlr__cb.html</loc>
@@ -18872,6 +18872,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structcmsis__rtos__msgq__cb.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structcmsis__rtos__mutex__cb.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structcmsis__rtos__semaphore__cb.html</loc>
   </url>
   <url>
@@ -18885,9 +18888,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structcoap__client.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structcmsis__rtos__mutex__cb.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structcoap__client__option.html</loc>
@@ -19058,10 +19058,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdai__ts__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdevice.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdap__link__context.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdap__link__context.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdevice.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdevice__ops.html</loc>
@@ -19121,13 +19121,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdns__resolve__srv.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdns__resolve__context_1_1dns__server.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdns__resolve__txt.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdns__sd__rec.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structdns__resolve__context_1_1dns__server.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/uniondrv2605__config__data.html</loc>
@@ -19250,25 +19250,22 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__list__for__bus.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/unionemul_1_1bus.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__mspi__device__api.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__mspi__driver__api.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__stub__dev__api.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__stub__dev__config.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structentropy__driver__api.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__stub__dev__api.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structemul__stub__dev__data.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structentropy__driver__api.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structenum__mgmt__detail__output.html</loc>
@@ -19284,6 +19281,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structespi__cfg.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/unionemul_1_1bus.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structespi__emul.html</loc>
@@ -19325,6 +19325,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structethernet__filter.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structethernet__lldp.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structethernet__qav__param.html</loc>
   </url>
   <url>
@@ -19332,9 +19335,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structethernet__qbv__param.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structethernet__lldp.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structethernet__t1s__param.html</loc>
@@ -19358,10 +19358,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structevtchn__reset.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structevtchn__send.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structevtchn__set__priority.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structevtchn__set__priority.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structevtchn__send.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structevtchn__status.html</loc>
@@ -19940,10 +19940,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structieee802154__header__ie__csl.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structieee802154__header__ie__csl__reduced.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structieee802154__header__ie__csl__full.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structieee802154__header__ie__csl__full.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structieee802154__header__ie__csl__reduced.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structieee802154__header__ie__rendezvous__time.html</loc>
@@ -20210,10 +20210,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structk__mem__paging__stats__t.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structk__mem__partition.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structk__mem__partition__attr__t.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structk__mem__partition__attr__t.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structk__mem__partition.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structk__msgq.html</loc>
@@ -20513,13 +20513,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structlwm2m__objlnk.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structlwm2m__res__item.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structlwm2m__time__series__elem.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structmax22017__data.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structlwm2m__res__item.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structmax32664c__acc__data__t.html</loc>
@@ -21089,10 +21089,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__event__ipv6__pmtu__info.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__event__ipv6__route.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__event__ipv6__prefix.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__event__ipv6__prefix.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__event__ipv6__route.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__event__l4__hostname.html</loc>
@@ -21275,10 +21275,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__stats__ip__errors.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__stats__ipv4__pmtu.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__stats__ipv4__igmp.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__stats__ipv4__igmp.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__stats__ipv4__pmtu.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnet__stats__ipv6__mld.html</loc>
@@ -21377,19 +21377,19 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpcx__ex__ops__qspi__oper__in.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpcx__ex__ops__uma__in.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpcx__ex__ops__qspi__oper__out.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpcx__ex__ops__uma__out.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpcx__ex__ops__uma__in.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpf__rule.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpf__rule__list.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpcx__ex__ops__uma__out.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnpf__test.html</loc>
@@ -21425,13 +21425,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnxp__enet__qos__config.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnxp__flexio__child.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnxp__flexio__child__res.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnxp__gint__group__config.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnxp__flexio__child.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structnxp__mpu__config.html</loc>
@@ -21650,13 +21650,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__device__base.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__device__isr.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__notifier.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__policy__event.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__device__isr.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__policy__latency__request.html</loc>
@@ -21665,10 +21665,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__policy__latency__subscription.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__state__constraints.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__state__constraint.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__state__constraint.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__state__constraints.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpm__state__info.html</loc>
@@ -21719,10 +21719,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpsa__storage__info__t.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpseudo__descriptor.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpsi5__frame.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpsi5__frame.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpseudo__descriptor.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structpstate.html</loc>
@@ -21827,10 +21827,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structrtio__work__req.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structrtio__regs_1_1rtio__regs__list.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structrts5912__sccon__subsys.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structrts5912__sccon__subsys.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structrtio__regs_1_1rtio__regs__list.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structrx__irq__dig__filt__s.html</loc>
@@ -21875,10 +21875,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsbs__gauge__device__name.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsbs__gauge__manufacturer__name.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structscb__context.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structscb__context.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsbs__gauge__manufacturer__name.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsched__pin__override.html</loc>
@@ -21962,10 +21962,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsd__switch__caps.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsdhc__command.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsdhc__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsdhc__data.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsdhc__command.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsdhc__driver__api.html</loc>
@@ -22025,10 +22025,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__chan__spec.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__data__generic__header.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__byte__data_1_1sensor__byte__sample__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__byte__data_1_1sensor__byte__sample__data.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__data__generic__header.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__data__header.html</loc>
@@ -22049,22 +22049,22 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__occurrence__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__game__rotation__vector__data_1_1sensor__game__rotation__vector__sample__data.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__occurrence__data_1_1sensor__occurrence__sample__data.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__q31__data.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__q31__data_1_1sensor__q31__sample__data.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__game__rotation__vector__data_1_1sensor__game__rotation__vector__sample__data.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__read__config.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__stream__trigger.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__q31__data_1_1sensor__q31__sample__data.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__three__axis__attribute.html</loc>
@@ -22082,9 +22082,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__value.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__three__axis__data_1_1sensor__three__axis__sample__data.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__uint64__data_1_1sensor__uint64__sample__data.html</loc>
   </url>
   <url>
@@ -22095,6 +22092,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsettings__handler.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsensor__three__axis__data_1_1sensor__three__axis__sample__data.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structsettings__handler__static.html</loc>
@@ -22196,6 +22196,9 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structshell__rpmsg__rx.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structshell__mqtt_1_1buffer.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structshell__rtt.html</loc>
   </url>
   <url>
@@ -22209,9 +22212,6 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structshell__telnet.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structshell__mqtt_1_1buffer.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structshell__telnet__line__buf.html</loc>
@@ -22640,10 +22640,10 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structuart__event__rx.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structuart__event__rx__buf.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/unionuart__event_1_1uart__event__data.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/unionuart__event_1_1uart__event__data.html</loc>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structuart__event__rx__buf.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structuart__event__rx__stop.html</loc>
@@ -22679,13 +22679,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structubx__cfg__val__u16.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structubx__cfg__val__u8.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structubx__cfg__val__u32.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structubx__frame.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structubx__cfg__val__u8.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structubx__frame__match.html</loc>
@@ -22928,9 +22928,6 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structvideo__control.html</loc>
   </url>
   <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structvideo__control__query.html</loc>
-  </url>
-  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structvideo__control__range.html</loc>
   </url>
   <url>
@@ -22947,6 +22944,9 @@
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structvideo__format__cap.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structvideo__control__query.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structvideo__frmival.html</loc>
@@ -23111,13 +23111,13 @@
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structwifi__status.html</loc>
   </url>
   <url>
+    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structwifi__twt__params.html</loc>
+  </url>
+  <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structwifi__twt__flow__info.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structwifi__version.html</loc>
-  </url>
-  <url>
-    <loc>https://docs.zephyrproject.org/latest/doxygen/html/structwifi__twt__params.html</loc>
   </url>
   <url>
     <loc>https://docs.zephyrproject.org/latest/doxygen/html/structwifi__wps__config__params.html</loc>
